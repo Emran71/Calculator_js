@@ -2,7 +2,7 @@
 
 A simple and interactive calculator built using **HTML**, **CSS**, and **JavaScript**. This project is designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-![Calculator Screenshot](./screenshot.png) <!-- Add a screenshot if available -->
+![Calculator Screenshot](./calculator.png) <!-- Add a screenshot if available -->
 
 ---
 
