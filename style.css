@@ -45,3 +45,8 @@ body {
     color: #fff;
     grid-column: span 2;
 }
+.button.danger {
+    background-color: #b3102b;
+    color: #fff;
+    grid-column: span 2;
+}
